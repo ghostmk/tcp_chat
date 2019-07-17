@@ -1,5 +1,5 @@
 # tcp_chat
-compile bothe the files with:
+Compile both the files with:
 ```
 gcc server.c -o server -lpthread
 gcc client.c -o client -lpthread
